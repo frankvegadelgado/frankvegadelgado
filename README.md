@@ -53,5 +53,4 @@ University of Havana | GPA: 4.22/5.0 | September 2007
 
 ---
 
-💬 **Languages**: Spanish (native), English (conversational)  
-📍 **Location**: Havana, Cuba
+💬 **Languages**: Spanish (native), English (conversational)
