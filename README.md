@@ -53,9 +53,6 @@ University of Havana | GPA: 4.22/5.0 | September 2007
 
 ![Frank's GitHub stats](https://github-stats-alpha.vercel.app/api?username=frankvegadelgado)
 
-### GitHub Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=frankvegadelgado)
-
 ---
 
 💬 **Languages**: Spanish (native), English (conversational)
