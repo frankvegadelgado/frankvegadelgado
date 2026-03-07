@@ -37,14 +37,14 @@ Software developer with a passion for applying mathematical principles to proble
 - [**movie-clustering**](https://pypi.org/project/movie-clustering/) - Available on PyPI
 - [**aegypti**](https://pypi.org/project/aegypti/) - Available on PyPI
 
+## 🧪 Experiments
+
+- [**resistire**](https://github.com/frankvegadelgado/resistire) - The Resistire Experiment — performance evaluation of the Hvala algorithm on 88 real-world large graphs, achieving an average approximation ratio of ~1.007 for the Minimum Vertex Cover problem
+
 ## 📐 Mathematical Research
 
 - [**fermat-equation**](https://github.com/frankvegadelgado/fermat-equation) - A Note on Fermat's Last Theorem — proves the Beal Conjecture using p-adic valuations and the Lifting The Exponent Lemma. Available on [preprints.org](https://www.preprints.org/manuscript/202109.0480/v19)
 - [**riemann-hypothesis**](https://github.com/frankvegadelgado/riemann-hypothesis) - From Chebyshev to Primorials: Establishing the Riemann Hypothesis — a proof via Dedekind's Ψ function and primorial growth analysis. Available on [preprints.org](https://www.preprints.org/manuscript/202408.0348/v9)
-
-## 🧪 Experiments
-
-- [**resistire**](https://github.com/frankvegadelgado/resistire) - The Resistire Experiment — performance evaluation of the Hvala algorithm on 88 real-world large graphs, achieving an average approximation ratio of ~1.007 for the Minimum Vertex Cover problem
 
 ## 🎓 Education
 
