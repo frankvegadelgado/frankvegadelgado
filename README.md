@@ -37,6 +37,11 @@ Software developer with a passion for applying mathematical principles to proble
 - [**movie-clustering**](https://pypi.org/project/movie-clustering/) - Available on PyPI
 - [**aegypti**](https://pypi.org/project/aegypti/) - Available on PyPI
 
+## 📐 Mathematical Research
+
+- [**fermat-equation**](https://github.com/frankvegadelgado/fermat-equation) - A Note on Fermat's Last Theorem — proves the Beal Conjecture using p-adic valuations and the Lifting The Exponent Lemma. Available on [preprints.org](https://www.preprints.org/manuscript/202109.0480/v19)
+- [**riemann-hypothesis**](https://github.com/frankvegadelgado/riemann-hypothesis) - From Chebyshev to Primorials: Establishing the Riemann Hypothesis — a proof via Dedekind's Ψ function and primorial growth analysis. Available on [preprints.org](https://www.preprints.org/manuscript/202408.0348/v9)
+
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
