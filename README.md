@@ -63,4 +63,24 @@ University of Havana | GPA: 4.22/5.0 | September 2007
 
 ---
 
+## 📌 Pinned Discussions
+
+### 🔢 [A Proof of Beal Conjecture (self-contained and short)!](https://github.com/frankvegadelgado/fermat-equation/discussions/2)
+> 📣 Announcement · [`fermat-equation`](https://github.com/frankvegadelgado/fermat-equation) · Feb 21, 2026
+
+A short elementary proof of the **Beal Conjecture** — one of mathematics' most famous open problems with a **$1,000,000 reward**.  
+The approach uses only two classical tools from number theory: the **Lifting The Exponent Lemma** and **p-adic valuations of binomial coefficients**, producing a contradiction that rules out any coprime solution to $A^x + B^y = C^z$.  
+No elliptic curves. No modular forms. Just a clean mismatch in valuations. 🖋️
+
+---
+
+### 🧮 [Has the Riemann Hypothesis Been Proved?](https://github.com/frankvegadelgado/riemann-hypothesis/discussions/2)
+> 📣 Announcement · [`riemann-hypothesis`](https://github.com/frankvegadelgado/riemann-hypothesis) · Mar 7, 2026
+
+A fresh approach to the **Riemann Hypothesis** — another Clay Millennium Prize Problem worth **$1,000,000**.  
+Instead of attacking the zeta function directly, the proof studies ratios built from **primorials** and shows that a false counterexample would generate an infinite strictly decreasing sequence bounded below — a contradiction. 🔒  
+Built entirely on classical results: the Prime Number Theorem, Mertens' theorem, and careful inequalities. No new assumptions. No computers. 🎯
+
+---
+
 💬 **Languages**: Spanish (native), English (conversational)
