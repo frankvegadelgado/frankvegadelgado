@@ -41,6 +41,7 @@ Software developer with a passion for applying mathematical principles to proble
 
 - [**resistire**](https://github.com/frankvegadelgado/resistire) - The Resistire Experiment — performance evaluation of the Hvala algorithm on 88 real-world large graphs, achieving an average approximation ratio of ~1.007 for the Minimum Vertex Cover problem
 - [**milagro**](https://github.com/frankvegadelgado/milagro) - The Milagro Experiment — performance evaluation of the Hallelujah algorithm on 136 real-world large graphs from the Network Data Repository, achieving an average approximation ratio of ~1.065 and a worst-case ratio of ~1.713 for the Minimum Vertex Cover problem, with 17.6% of instances solved optimally and over 75% processed in under 60 seconds
+- [**goldbach**](https://github.com/frankvegadelgado/goldbach) - The Goldbach Experiment — computational verification of a geometric equivalence for a variant of Goldbach's conjecture (every even integer ≥ 8 is the sum of two distinct primes), validated for all N up to 2¹⁴ (16,384) by confirming the gap function G(N) > 0 across all tested values, with minimum gap values growing monotonically across power-of-two intervals, and combined with a pigeonhole principle argument providing strong theoretical evidence for all N ≥ 328
 
 ## 📐 Mathematical Research
 
