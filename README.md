@@ -35,6 +35,8 @@ Software developer with a passion for applying mathematical principles to proble
 
 - [**hvala**](https://pypi.org/project/hvala/) - Available on PyPI
 - [**hallelujah**](https://pypi.org/project/hallelujah/) - Available on PyPI
+- [**aegypti**](https://pypi.org/project/aegypti/) - Available on PyPI
+- [**movie-clustering**](https://pypi.org/project/movie-clustering/) - Available on PyPI
 
 ## 🧪 Experiments
 
@@ -44,7 +46,7 @@ Software developer with a passion for applying mathematical principles to proble
 ## 📐 Mathematical Research
 
 - [**fermat-equation**](https://github.com/frankvegadelgado/fermat-equation) - A Note on Fermat's Last Theorem — proves the Beal Conjecture using p-adic valuations and the Lifting The Exponent Lemma. Available on [preprints.org](https://www.preprints.org/manuscript/202109.0480/v19)
-- [**riemann-hypothesis**](https://github.com/frankvegadelgado/riemann-hypothesis) - From Chebyshev to Primorials: Establishing the Riemann Hypothesis — a proof via Dedekind's Ψ function and primorial growth analysis. Available on [preprints.org](https://www.preprints.org/manuscript/202408.0348/v9)
+- [**riemann-hypothesis**](https://github.com/frankvegadelgado/riemann-hypothesis) - From Chebyshev to Primorials: Establishing the Riemann Hypothesis — a proof via Dedekind's Ψ function and primorial growth analysis. Available on [preprints.org](https://www.preprints.org/manuscript/202408.0348/v10)
 
 ## 🎓 Education
 
