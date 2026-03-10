@@ -36,7 +36,6 @@ Software developer with a passion for applying mathematical principles to proble
 - [**hvala**](https://pypi.org/project/hvala/) - Available on PyPI
 - [**hallelujah**](https://pypi.org/project/hallelujah/) - Available on PyPI
 - [**aegypti**](https://pypi.org/project/aegypti/) - Available on PyPI
-- [**movie-clustering**](https://pypi.org/project/movie-clustering/) - Available on PyPI
 
 ## 🧪 Experiments
 
