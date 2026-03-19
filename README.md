@@ -45,7 +45,6 @@ Software developer with a passion for applying mathematical principles to proble
 
 ## 📐 Mathematical Research
 
-- [**fermat-equation**](https://github.com/frankvegadelgado/fermat-equation) - A Note on Fermat's Last Theorem — proves the Beal Conjecture using p-adic valuations and the Lifting The Exponent Lemma. Available on [preprints.org](https://www.preprints.org/manuscript/202109.0480/v19)
 - [**riemann-hypothesis**](https://github.com/frankvegadelgado/riemann-hypothesis) - From Chebyshev to Primorials: Establishing the Riemann Hypothesis — a proof via Dedekind's Ψ function and primorial growth analysis. Available on [preprints.org](https://www.preprints.org/manuscript/202408.0348/v10)
 
 ## 🎓 Education
@@ -66,15 +65,6 @@ University of Havana | GPA: 4.22/5.0 | September 2007
 ---
 
 ## 📌 Pinned Discussions
-
-### 🔢 [A Proof of Beal Conjecture (self-contained and short)!](https://github.com/frankvegadelgado/fermat-equation/discussions/2)
-> 📣 Announcement · [`fermat-equation`](https://github.com/frankvegadelgado/fermat-equation) · Feb 21, 2026
-
-A short elementary proof of the **Beal Conjecture** — one of mathematics' most famous open problems with a **$1,000,000 reward**.  
-The approach uses only two classical tools from number theory: the **Lifting The Exponent Lemma** and **p-adic valuations of binomial coefficients**, producing a contradiction that rules out any coprime solution to $A^x + B^y = C^z$.  
-No elliptic curves. No modular forms. Just a clean mismatch in valuations. 🖋️
-
----
 
 ### 🧮 [Has the Riemann Hypothesis Been Proved?](https://github.com/frankvegadelgado/riemann-hypothesis/discussions/2)
 > 📣 Announcement · [`riemann-hypothesis`](https://github.com/frankvegadelgado/riemann-hypothesis) · Mar 7, 2026
