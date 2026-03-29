@@ -64,15 +64,4 @@ University of Havana | GPA: 4.22/5.0 | September 2007
 
 ---
 
-## 📌 Pinned Discussions
-
-### 🧮 [Has the Riemann Hypothesis Been Proved?](https://github.com/frankvegadelgado/riemann-hypothesis/discussions/2)
-> 📣 Announcement · [`riemann-hypothesis`](https://github.com/frankvegadelgado/riemann-hypothesis) · Mar 7, 2026
-
-A fresh approach to the **Riemann Hypothesis** — another Clay Millennium Prize Problem worth **$1,000,000**.  
-Instead of attacking the zeta function directly, the proof studies ratios built from **primorials** and shows that a false counterexample would generate an infinite strictly decreasing sequence bounded below — a contradiction. 🔒  
-Built entirely on classical results: the Prime Number Theorem, Mertens' theorem, and careful inequalities. No new assumptions. No computers. 🎯
-
----
-
 💬 **Languages**: Spanish (native), English (conversational)
