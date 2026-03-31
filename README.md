@@ -45,7 +45,7 @@ Software developer with a passion for applying mathematical principles to proble
 
 ## 📐 Mathematical Research
 
-- [**riemann-hypothesis**](https://github.com/frankvegadelgado/riemann-hypothesis) - Mertens' Theorems and the Riemann Hypothesis — a proof of the Riemann Hypothesis. Available on [preprints.org](https://www.preprints.org/manuscript/202408.0348/v11)
+- [**riemann-hypothesis**](https://github.com/frankvegadelgado/riemann-hypothesis) - From Chebyshev to Primorials: Establishing the Riemann Hypothesis — a proof of the Riemann Hypothesis. Available on [preprints.org](https://www.preprints.org/manuscript/202408.0348/v11)
 
 ## 🎓 Education
 
