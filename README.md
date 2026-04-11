@@ -45,7 +45,9 @@ Software developer with a passion for applying mathematical principles to proble
 
 ## 📐 Mathematical Research
 
-- [**riemann-hypothesis**](https://github.com/frankvegadelgado/riemann-hypothesis) - *From Chebyshev to Primorials: Establishing the Riemann Hypothesis* — a proof of the Riemann Hypothesis. Available on [preprints.org](https://www.preprints.org/manuscript/202408.0348/v11)
+- [**riemann-hypothesis**](https://github.com/frankvegadelgado/riemann-hypothesis) - *From Chebyshev to Primorials: Establishing the Riemann Hypothesis* — a proof of the Riemann Hypothesis using primorial-based arguments on Nicolas' criterion. Available on [preprints.org](https://www.preprints.org/manuscript/202408.0348/v11)
+
+- [**goldbach-conjecture**](https://github.com/frankvegadelgado/goldbach-conjecture) - *Geometric Insights into the Goldbach Conjecture* — a geometric framework that reformulates the distinct-prime Goldbach conjecture as a combinatorial intersection problem on nested squares with semiprime areas. Available on [preprints.org](https://www.preprints.org/manuscript/202511.0701/v5)
 
 ## 🎓 Education
 
