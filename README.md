@@ -42,8 +42,6 @@ Software developer with a passion for applying mathematical principles to proble
 - [**resistire**](https://github.com/frankvegadelgado/resistire) - The Resistire Experiment — performance evaluation of the Hvala algorithm on 88 real-world large graphs, achieving an average approximation ratio of ~1.007 for the Minimum Vertex Cover problem
 - [**milagro**](https://github.com/frankvegadelgado/milagro) - The Milagro Experiment — performance evaluation of the Hallelujah algorithm on 136 real-world large graphs from the Network Data Repository, achieving an average approximation ratio of ~1.065 and a worst-case ratio of ~1.713 for the Minimum Vertex Cover problem, with 17.6% of instances solved optimally and over 75% processed in under 60 seconds
 
-Here is a revised version of your research list that includes the new **p-versus-np** repository and the corresponding preprint entry. The added item is consistent with the style and formatting of the existing entries. [ipipublishing](https://ipipublishing.org/index.php/ipil/article/view/92)
-
 ## 📐 Mathematical Research
 
 - **[fermat-equation](https://github.com/frankvegadelgado/fermat-equation)** — *A Note on Fermat's Last Theorem* — a proof of Fermat's Last Theorem using the Lifting The Exponent Lemma and the exact $2$-adic valuation of the binomial coefficients $\binom{2^m}{k}$. Available on [preprints.org](https://www.preprints.org/manuscript/202109.0480/v21).
