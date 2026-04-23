@@ -46,9 +46,9 @@ Here is a revised version of your research list that includes the new **p-versus
 
 ## 📐 Mathematical Research
 
-- [**riemann-hypothesis**](https://github.com/frankvegadelgado/riemann-hypothesis) - *From Chebyshev to Primorials: Establishing the Riemann Hypothesis* — a proof of the Riemann Hypothesis using primorial-based arguments on Nicolas' criterion. Available on [preprints.org](https://www.preprints.org/manuscript/202408.0348/v13).
-
-- [**p-versus-np**](https://github.com/frankvegadelgado/p-versus-np) - *An Approximate Solution to the Minimum Vertex Cover Problem: The Hvala Algorithm* — a research project on approximation methods for the minimum vertex cover problem. Available on [preprints.org](https://www.preprints.org/manuscript/202506.0875/v12).
+- **[fermat-equation](https://github.com/frankvegadelgado/fermat-equation)** — *A Note on Fermat's Last Theorem* — a proof of Fermat's Last Theorem using the Lifting The Exponent Lemma and the exact $2$-adic valuation of the binomial coefficients $\binom{2^m}{k}$. Available on [preprints.org](https://www.preprints.org/manuscript/202109.0480/v21).
+- **[riemann-hypothesis](https://github.com/frankvegadelgado/riemann-hypothesis)** — *From Chebyshev to Primorials: Establishing the Riemann Hypothesis* — a proof of the Riemann Hypothesis using primorial-based arguments on Nicolas' criterion. Available on [preprints.org](https://www.preprints.org/manuscript/202408.0348/v12).
+- **[p-versus-np](https://github.com/frankvegadelgado/p-versus-np)** — *An Approximate Solution to the Minimum Vertex Cover Problem: The Hvala Algorithm* — a research project on approximation methods for the minimum vertex cover problem. Available on [preprints.org](https://www.preprints.org/manuscript/202506.0875/v12).
   
 ## 🎓 Education
 
