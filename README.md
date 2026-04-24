@@ -39,7 +39,7 @@ Software developer with a passion for applying mathematical principles to proble
 
 ## 🧪 Experiments
 
-- [**resistire**](https://github.com/frankvegadelgado/resistire) - The Resistire Experiment — performance evaluation of the Hvala algorithm on 88 real-world large graphs, achieving an average approximation ratio of ~1.007 for the Minimum Vertex Cover problem
+- [**valiente**](https://github.com/frankvegadelgado/valiente) - The Valiente Experiment — performance evaluation of the Hvala algorithm on 130 real-world large graphs, achieving an average approximation ratio of ~1.006 for the Minimum Vertex Cover problem
 - [**milagro**](https://github.com/frankvegadelgado/milagro) - The Milagro Experiment — performance evaluation of the Hallelujah algorithm on 136 real-world large graphs from the Network Data Repository, achieving an average approximation ratio of ~1.065 and a worst-case ratio of ~1.713 for the Minimum Vertex Cover problem, with 17.6% of instances solved optimally and over 75% processed in under 60 seconds
 
 ## 📐 Mathematical Research
