@@ -45,7 +45,6 @@ Software developer with a passion for applying mathematical principles to proble
 
 ## 📐 Mathematical Research
 
-- **[fermat-equation](https://github.com/frankvegadelgado/fermat-equation)** — *A Note on Fermat's Last Theorem* — a proof of Fermat's Last Theorem using the Lifting The Exponent Lemma and the exact $2$-adic valuation of the binomial coefficients $\binom{2^m}{k}$. Available on [preprints.org](https://www.preprints.org/manuscript/202109.0480).
 - **[p-versus-np](https://github.com/frankvegadelgado/furones)** — *An Approximate Solution to the Minimum Dominating Set Problem: The Furones Algorithm* — a research project on approximation methods for the minimum dominating set problem. Available on [preprints.org](https://www.preprints.org/manuscript/202504.0522).
 
 ## 🎓 Education
