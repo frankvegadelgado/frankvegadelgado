@@ -45,6 +45,7 @@ Software developer with a passion for applying mathematical principles to proble
 
 ## 📐 Mathematical Research
 
+- **[p-versus-np](https://github.com/frankvegadelgado/hvala)** — *An Approximate Solution to the Minimum Vertex Cover Problem: The Hvala Algorithm* — a research project on approximation methods for the minimum vertex cover problem. Available on [preprints.org](https://www.preprints.org/manuscript/202506.0875).
 - **[p-versus-np](https://github.com/frankvegadelgado/furones)** — *An Approximate Solution to the Minimum Dominating Set Problem: The Furones Algorithm* — a research project on approximation methods for the minimum dominating set problem. Available on [preprints.org](https://www.preprints.org/manuscript/202504.0522).
 
 ## 🎓 Education
