@@ -36,11 +36,17 @@ Software developer with a passion for applying mathematical principles to proble
 - [**hvala**](https://pypi.org/project/hvala/) - Available on PyPI
 - [**hallelujah**](https://pypi.org/project/hallelujah/) - Available on PyPI
 - [**aegypti**](https://pypi.org/project/aegypti/) - Available on PyPI
+- [**furones**](https://pypi.org/project/furones/) - Available on PyPI
 
 ## 🧪 Experiments
 
 - [**valiente**](https://github.com/frankvegadelgado/valiente) - The Valiente Experiment — performance evaluation of the Hvala algorithm on 130 real-world large graphs, achieving an average approximation ratio of ~1.006 for the Minimum Vertex Cover problem
 - [**milagro**](https://github.com/frankvegadelgado/milagro) - The Milagro Experiment — performance evaluation of the Hallelujah algorithm on 136 real-world large graphs from the Network Data Repository, achieving an average approximation ratio of ~1.065 and a worst-case ratio of ~1.713 for the Minimum Vertex Cover problem, with 17.6% of instances solved optimally and over 75% processed in under 60 seconds
+
+## 📐 Mathematical Research
+
+- **[fermat-equation](https://github.com/frankvegadelgado/fermat-equation)** — *A Note on Fermat's Last Theorem* — a proof of Fermat's Last Theorem using the Lifting The Exponent Lemma and the exact $2$-adic valuation of the binomial coefficients $\binom{2^m}{k}$. Available on [preprints.org](https://www.preprints.org/manuscript/202109.0480).
+- **[p-versus-np](https://github.com/frankvegadelgado/furones)** — *An Approximate Solution to the Minimum Dominating Set Problem: The Furones Algorithm* — a research project on approximation methods for the minimum dominating set problem. Available on [preprints.org](https://www.preprints.org/manuscript/202504.0522).
 
 ## 🎓 Education
 
