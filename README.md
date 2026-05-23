@@ -37,6 +37,7 @@ Software developer with a passion for applying mathematical principles to proble
 - [**hallelujah**](https://pypi.org/project/hallelujah/) - Available on PyPI
 - [**aegypti**](https://pypi.org/project/aegypti/) - Available on PyPI
 - [**furones**](https://pypi.org/project/furones/) - Available on PyPI
+- [**salvador**](https://pypi.org/project/salvador/) - Available on PyPI
 
 ## 🧪 Experiments
 
