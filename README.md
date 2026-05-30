@@ -28,6 +28,8 @@ Software developer with a passion for applying mathematical principles to proble
 
 ## 📚 Publications
 
+- [An Approximate Solution to the Minimum Vertex Cover Problem: The Hvala Algorithm](https://www.gaugefreedom.org/article/v1-i1-004-the-hvala-algorithm) - Published in *Gauge Freedom Journal*
+- [An approximate solution to the minimum vertex cover problem: the Hallelujah algorithm](https://www.tandfonline.com/doi/full/10.1080/17445760.2026.2660724) - Published in *International Journal of Parallel, Emergent and Distributed Systems*
 - [Robin's criterion on divisibility](https://link.springer.com/article/10.1007/s11139-022-00574-4) - Published in *The Ramanujan Journal*
 - [Working Conditions as a Factor of Productivity in SMEs](https://doisrpska.nub.rs/index.php/economyandmarket/article/view/4811) - Published in *Journal of Economics and Market Communications*
 
