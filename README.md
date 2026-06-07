@@ -35,6 +35,7 @@ Software developer with a passion for applying mathematical principles to proble
 
 ## 🐍 Python Packages
 
+- [**siriaisa**](https://pypi.org/project/siriaisa/) - Available on PyPI
 - [**hvala**](https://pypi.org/project/hvala/) - Available on PyPI
 - [**hallelujah**](https://pypi.org/project/hallelujah/) - Available on PyPI
 - [**aegypti**](https://pypi.org/project/aegypti/) - Available on PyPI
@@ -45,12 +46,7 @@ Software developer with a passion for applying mathematical principles to proble
 
 - [**valiente**](https://github.com/frankvegadelgado/valiente) - The Valiente Experiment — performance evaluation of the Hvala algorithm on 130 real-world large graphs, achieving an average approximation ratio of ~1.006 for the Minimum Vertex Cover problem
 - [**milagro**](https://github.com/frankvegadelgado/milagro) - The Milagro Experiment — performance evaluation of the Hallelujah algorithm on 136 real-world large graphs from the Network Data Repository, achieving an average approximation ratio of ~1.065 and a worst-case ratio of ~1.713 for the Minimum Vertex Cover problem, with 17.6% of instances solved optimally and over 75% processed in under 60 seconds
-
-## 📐 Mathematical Research
-
-- **[p-versus-np](https://github.com/frankvegadelgado/hvala)** — *An Approximate Solution to the Minimum Vertex Cover Problem: The Hvala Algorithm* — a research project on approximation methods for the minimum vertex cover problem. Available on [preprints.org](https://www.preprints.org/manuscript/202506.0875).
-- **[p-versus-np](https://github.com/frankvegadelgado/furones)** — *An Approximate Solution to the Minimum Dominating Set Problem: The Furones Algorithm* — a research project on approximation methods for the minimum dominating set problem. Available on [preprints.org](https://www.preprints.org/manuscript/202504.0522).
-
+  
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
