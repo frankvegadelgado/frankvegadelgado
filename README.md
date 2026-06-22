@@ -35,12 +35,12 @@ Software developer with a passion for applying mathematical principles to proble
 
 ## 🐍 Python Packages
 
-- [**siriaisa**](https://pypi.org/project/siriaisa/) - Available on PyPI
 - [**hvala**](https://pypi.org/project/hvala/) - Available on PyPI
 - [**hallelujah**](https://pypi.org/project/hallelujah/) - Available on PyPI
 - [**aegypti**](https://pypi.org/project/aegypti/) - Available on PyPI
 - [**furones**](https://pypi.org/project/furones/) - Available on PyPI
 - [**salvador**](https://pypi.org/project/salvador/) - Available on PyPI
+- [**siriaisa**](https://pypi.org/project/siriaisa/) - Available on PyPI
 
 ## 🧪 Experiments
 
