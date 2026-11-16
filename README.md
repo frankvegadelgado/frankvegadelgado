@@ -53,7 +53,7 @@ These preprints are hosted on [Hexagon](https://hexagonmath.org/users/user_5f04e
 - [**salvador**](https://pypi.org/project/salvador/) — available on PyPI
 - [**esperanza**](https://pypi.org/project/esperanza/) — available on PyPI
 - [**siriaisa**](https://pypi.org/project/siriaisa/) — available on PyPI
-- [**satypy**](https://pypi.org/project/satypy/) — available on PyPI
+- [**furones**](https://pypi.org/project/furones/) — available on PyPI
 
 ## 🧪 Experiments
 
