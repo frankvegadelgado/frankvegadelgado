@@ -28,16 +28,7 @@ Software developer with a passion for applying mathematical principles to proble
 
 ## 📄 Preprints (Hexagon, AI-assisted)
 
-These preprints are hosted on [Hexagon](https://hexagonmath.org/users/user_5f04e0b8-6b8a-4ca8-9716-dbcd5caffa78). ORCID: [0000-0001-8210-4126](https://orcid.org/0000-0001-8210-4126). All works are marked **“Primarily AI-generated text”** with **“Human understanding: all parts.”**
-
-- [**Class Numbers of Imaginary Quadratic Orders in the Polynomial Hierarchy**](https://hexagonmath.org/2611.00086v1) — *cs.CC — Computational Complexity* (Nov 04, 2026)
-- [**Nested Squares and Distinct-Prime Goldbach Partitions**](https://hexagonmath.org/2611.00049v1) — *math.NT — Number Theory* (Nov 04, 2026)
-- [**The Siriaisa Algorithm for Minimum Independent Dominating Set**](https://hexagonmath.org/2611.00043v1) — *cs.CC — Computational Complexity* (Nov 03, 2026)
-- [**Powers of a Prime in the Image of Summatory Valuation Functions**](https://hexagonmath.org/2611.00027v1) — *math.NT — Number Theory* (Nov 03, 2026)
-- [**The Esperanza Algorithm for Maximum Independent Set**](https://hexagonmath.org/2610.00703v1) — *cs.CC — Computational Complexity* (Nov 02, 2026)
-- [**Robin's Inequality at Colossally Abundant Numbers and Nicolas' Inequality at Their Largest Prime Factor**](https://hexagonmath.org/2610.00702v1) — *math.NT — Number Theory* (Nov 02, 2026)
-- [**Robin's Inequality and Superabundant Counterexamples**](https://hexagonmath.org/2610.00519v1) — *math.NT — Number Theory* (Oct 26, 2026)
-- [**An Approximate Solution to the Minimum Vertex Cover Problem: The Salvador Algorithm**](https://hexagonmath.org/2610.00337v1) — *cs.CC — Computational Complexity* (Oct 18, 2026)
+The preprints are hosted on [Hexagon](https://hexagonmath.org/users/user_5f04e0b8-6b8a-4ca8-9716-dbcd5caffa78). ORCID: [0000-0001-8210-4126](https://orcid.org/0000-0001-8210-4126). All works are marked **“Primarily AI-generated text”** with **“Human understanding: all parts.”**
 
 ## 📚 Publications
 
